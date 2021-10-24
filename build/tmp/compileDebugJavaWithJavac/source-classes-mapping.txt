@@ -1,0 +1,2 @@
+com/example/hellofdu/BuildConfig.java
+ com.example.hellofdu.BuildConfig
